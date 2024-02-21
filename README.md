@@ -9,7 +9,7 @@ I am a Full Stack Software Engineer, passionate about exploring the realms of ma
 
 
 #  🌎 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KawaggaN.) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&linkedin&logoColor=white)](https://linkedin.com/in/KawaggaN.) 
 
 # 👨🏾‍💻 Tech Stack:
 ## Languages:
