@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Kawagga K. Naggenda</h1>
+<h1 align="center">Hi 👋 I'm Kawagga</h1>
 
 I am a Full Stack Software Engineer based in the United States, and I am passionate about exploring the realms of machine learning, cloud computing as well as robust applications.
 
